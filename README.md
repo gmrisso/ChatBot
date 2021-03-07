@@ -23,7 +23,7 @@ Project to test the use of the package react-simple-chatbot.
 This project was developed with this technologies:
 
 - **[ReactJS](https://developer.mozilla.org/en-US/docs/Glossary/HTML)**
-- ** [package react-simple-chatbot] (https://www.npmjs.com/package/react-simple-chatbot)**
+- **[package react-simple-chatbot](https://www.npmjs.com/package/react-simple-chatbot)**
 
 ## 🖊️ License
 
